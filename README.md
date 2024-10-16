@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6fd1b632-a216-498b-a6b5-b0707bac0d56
 # PDF-based RAG Chatbot Using Flask & Google AI 💼
 A Retrieval-Augmented Generation (RAG) chatbot using Flask and Google’s Generative AI that efficiently handles PDF document processing and provides context-aware responses!
 
@@ -9,6 +11,12 @@ A Retrieval-Augmented Generation (RAG) chatbot using Flask and Google’s Genera
 ![Screenshot 2024-10-16 at 6 46 52 PM](https://github.com/user-attachments/assets/4b5dc8ed-68da-4128-aa1e-31d075b36768)
 
 ![Screenshot 2024-10-16 at 6 47 31 PM](https://github.com/user-attachments/assets/c19586de-532a-4309-898f-c76e243acb4f)
+
+
+
+
+https://github.com/user-attachments/assets/3855c49b-4b15-444e-a600-21b9fbaa91f6
+
 
 
 
